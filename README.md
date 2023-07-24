@@ -1,2 +1,2 @@
 # btc_tracker
-Bitcoin Tracker
+Bitcoin Tracker using requests, tkinter and API
