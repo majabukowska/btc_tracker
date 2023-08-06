@@ -20,7 +20,7 @@ This file provides a function `is_btc_api_available(api)` to verify the availabi
 
 1. Ensure you have Python installed on your system.
 2. Clone this repository to your local machine using the following command:
-`git clone https://github.com/your-username/bitcoin-tracker.git`
+`git clone https://github.com/majabukowska/btc_tracker.git`
 3. Navigate to the cloned repository's directory: `cd bitcoin-tracker`
 4. Install required dependencies: `pip install requests`
 5. Run the Bitcoin tracking application: `python bitcoin_tracker.py`
